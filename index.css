@@ -1,0 +1,106 @@
+body{
+  background-image: url(undraw_cooking_lyxy.svg);
+  background-repeat: no-repeat;
+ background-size:cover;
+
+}
+.box-item1{
+  display:inline-block;
+  padding:30px 30px 40px;
+   background-color:black;
+   color: white;
+   border:5px solid red;
+   border-radius: 25px;
+   font-size: 30px;
+   width: fit-content;
+   position: relative;
+     top:6px;
+ 
+}
+.box-item2{
+    display: inline-block;
+     padding:20px 50px 20px;
+     background-color: black;
+     color: white;
+     border-radius: 20px;
+     border:5px solid red;
+     font-size: 25px;
+     margin-left:-135px;
+     width: fit-content;
+     position: relative;
+     top:-55px;
+  }
+  .box-item3{
+    display: inline-block;
+     padding:20px 80px 20px;
+     background-color: black;
+     color: white;
+     border-radius: 45px;
+     border:5px solid red;
+     margin-left: 492px;
+     font-size: 20px;
+     position:absolute;
+
+    
+  }
+.form-section{
+
+}
+.form{
+  background-color:rgb(106, 172, 226);
+  color:red;
+    border:10px solid red;
+    border-style: dashed;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    right:-845px;
+    padding:30px 90px 90px;;
+    position:relative;
+    top:-120px;
+
+}
+.h3-form{
+
+}
+.circle
+{
+  background-color: #38bdf8;
+    border:4px solid red;
+    display:inline-block;
+    text-decoration: underline;
+    position: relative;
+    padding:90px 10px 90px;
+    font-size: 25px;
+    text-align: center;
+    border-radius:50rem;
+    top:550px;
+    left:250px;
+    
+}
+.menu
+{
+  border:5px solid red;
+  background: black;
+  color: white;
+  display:inline-block;
+  padding: 20px 150px 20px;
+  border-radius: 60px;
+  position: relative;
+  right:-40%;
+}
+.menu-container{
+display:flex;
+flex-flow: row wrap;
+
+}
+.menu-item{
+ background-color: rgb(180, 111, 111);
+  border:1px solid black;
+  text-align: center;
+  height: 257px;
+  width: 439px;
+  margin: 30px;
+  border-radius: 20px;
+
+}
